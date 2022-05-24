@@ -1,0 +1,4 @@
+Region,Country,Item_Type,Sales_Channel,Order_Priority,Order_Date,Order_ID,Ship_Date,Units_Sold,Unit_Price,Unit_Cost
+Asia,Maldives,Beverages,Offline,C,28-07-0017,932613790,13-08-0017,10000,47.45000076293945,31.790000915527344
+Sub-Saharan Africa,Senegal,Cosmetics,Online,M,18-02-0016,174407804,22-02-0016,10000,437.20001220703125,263.3299865722656
+Europe,Moldova ,Fruits,Offline,H,19-12-0015,130950438,23-12-0015,10000,9.329999923706055,6.920000076293945
